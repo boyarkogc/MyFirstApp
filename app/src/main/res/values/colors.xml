@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background">#4863A0</color> //Steel Blue
+    <color name="actionbar_text">#E5E4E2</color> //Platinum
+    <color name="actionbar_background_color">#2B3856</color>//Dark Slate Blue
+</resources>
